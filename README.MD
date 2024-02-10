@@ -1,1 +1,1 @@
-# This is Application which using React Native 
+# This is Application which is using React Native 
